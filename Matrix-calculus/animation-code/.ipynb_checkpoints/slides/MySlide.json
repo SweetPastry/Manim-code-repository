@@ -1,0 +1,21 @@
+{
+  "slides": [
+    {
+      "file": "slides/files/MySlide/344dddf50d7aa538cd3a2efec66ba3b75a720bee1d232ccd5af3622bab57f53d.mp4",
+      "rev_file": "slides/files/MySlide/344dddf50d7aa538cd3a2efec66ba3b75a720bee1d232ccd5af3622bab57f53d_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    },
+    {
+      "file": "slides/files/MySlide/61a4931d797b3e9c4d4bfafe8e8c3e97df5ab520f1de5891495129c8b9e22286.mp4",
+      "rev_file": "slides/files/MySlide/61a4931d797b3e9c4d4bfafe8e8c3e97df5ab520f1de5891495129c8b9e22286_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "background_color": "black"
+}
