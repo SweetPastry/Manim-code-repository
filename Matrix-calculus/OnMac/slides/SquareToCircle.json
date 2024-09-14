@@ -1,0 +1,15 @@
+{
+  "slides": [
+    {
+      "file": "slides/files/SquareToCircle/9e0d0366c191420ff6a6bea5e7f204f3f511d2c81d0c0eb0473a7fee4c4d9c6e.mp4",
+      "rev_file": "slides/files/SquareToCircle/9e0d0366c191420ff6a6bea5e7f204f3f511d2c81d0c0eb0473a7fee4c4d9c6e_reversed.mp4",
+      "loop": false,
+      "auto_next": false
+    }
+  ],
+  "resolution": [
+    854,
+    480
+  ],
+  "background_color": "black"
+}
